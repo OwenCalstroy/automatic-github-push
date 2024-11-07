@@ -16,9 +16,11 @@ An automatic script that pushes latest files to the github repository.
    ```
    脚本名前有一个点（`.`）和斜杠（`/`），这告诉Bash解释器在当前目录下执行这个脚本。
 
-4. **输入GitHub凭据**：如果你是第一次使用Git Bash推送到GitHub，系统可能会提示你输入GitHub用户名和密码。输入完成后，Git会记住这些凭据，直到你清除它们。
+   或者直接双击文件即可运行。
 
-5. **查看推送结果**：如果脚本成功运行，Git Bash会显示推送的结果，包括哪些文件被推送到了远程仓库。
+5. **输入GitHub凭据**：如果你是第一次使用Git Bash推送到GitHub，系统可能会提示你输入GitHub用户名和密码。输入完成后，Git会记住这些凭据，直到你清除它们。
+
+6. **查看推送结果**：如果脚本成功运行，Git Bash会显示推送的结果，包括哪些文件被推送到了远程仓库。
 
 
 ## 设置自动运行
